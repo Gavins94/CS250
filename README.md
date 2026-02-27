@@ -1,6 +1,6 @@
 # CS250  <br>
 <br>
- How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 <br>
 <br>
 I start by talking to people who will use the software and by watching how they work. I try to hear not just what they ask for but why they need it — that often reveals the real problem. Then I turn those observations into clear, small pieces of work: what the user needs, what success looks like, and any limits or constraints. Writing user stories (for example, “As a teacher, I want to upload assignments so my students can access them”) keeps the focus on the person who will actually use the feature. User stories help me prioritize what to build first, keep features small and testable, and make it easy to check with users that we’ve solved their problem.
